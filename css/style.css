@@ -16,6 +16,10 @@ font-family: 'Asap Condensed', sans-serif;
     font-size: 35px;
 }
 
+.textShadow{
+    text-shadow: 2px 2px black;
+}
+
 .idl{
     height: 50px;
     width: 50px;
