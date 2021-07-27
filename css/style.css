@@ -235,7 +235,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
-    min-height: 320px;
+    min-height: 304px;
 }
   .modal-header {
     text-align: center;
